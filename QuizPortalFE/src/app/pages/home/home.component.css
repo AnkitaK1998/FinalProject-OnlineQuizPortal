@@ -1,0 +1,17 @@
+h1{
+    color: rgb(20, 20, 20);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: solid;
+}
+
+.wel{
+
+
+    width: 600px;
+    height: 460px;
+    padding:10px 90px;
+    border-radius: 25px;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-image: url("https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif");
+}

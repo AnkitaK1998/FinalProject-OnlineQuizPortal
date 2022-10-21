@@ -1,0 +1,1 @@
+{"ast":null,"code":"let baseUrl = 'http://localhost:8081';\nexport default baseUrl;","map":null,"metadata":{},"sourceType":"module"}
